@@ -2,7 +2,7 @@
 
 🎓 Formado em desenvolvimento de sistema (Nível Técnico Na PROZ), e estudante de ADS ( gran faculdade de Curitiba 4/5)
 
-📍 PROZ | GRAN FACULDADE 
+📍 PROZ | GRAN FACULDADE  
 
 💡 Apaixonado por criar soluções de software criativas e aplicáveis ​​ao mundo real
 
