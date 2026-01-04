@@ -1,8 +1,11 @@
 👋 Olá! Meu nome é Davidson De Amorim!
 
 🎓 Formado em desenvolvimento de sistema (Nível Técnico Na PROZ), e estudante de ADS ( gran faculdade de Curitiba 4/5)
+
 📍 PROZ | GRAN FACULDADE 
+
 💡 Apaixonado por criar soluções de software criativas e aplicáveis ​​ao mundo real
+
 🔧 Focado em desenvolvimento full stack , design de sistemas e resolução de problemas
 
 🚀 Conjunto de tecnologias
