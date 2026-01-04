@@ -40,6 +40,8 @@ Colaborando em projetos tecnológicos empolgantes:
 
 💼 LinkedIn
 📧 E-mail: davidjm637@gmail.com
+
 👤 Por__tifolio(em design)
+
 “Código é como humor. Quando você precisa explicá-lo, é ruim.” – Cory House
 
